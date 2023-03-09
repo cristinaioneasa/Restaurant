@@ -1,0 +1,8 @@
+Order no1
+Client: 0
+Date: Thu May 26 12:31:32 EEST 2022
+
+Products:
+lapte cu cereale  2
+
+ TOTAL to pay: 2

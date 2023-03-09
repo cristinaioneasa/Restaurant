@@ -1,0 +1,8 @@
+Order no2
+Client: 1
+Date: Thu May 26 00:06:23 EEST 2022
+
+Products:
+Deep-Dish Wild Blueberry Pie   34
+
+ TOTAL to pay: 34
