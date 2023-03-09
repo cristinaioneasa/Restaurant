@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+package BussinessLogic
+package DataAccess
+package GUI
+BussinessLogic <.. GUI
+GUI ..> DataAccess
+BussinessLogic ..> DataAccess
+DataAccess ..> BussinessLogic
+@enduml
