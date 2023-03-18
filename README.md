@@ -14,4 +14,5 @@ The "Employee" user can only view when a customer places a new order.
 
 #### For administrators:
 The "Administrator" user has advanced capabilities, such as importing an initial list of products from an Excel file and modifying the list by adding, updating, or deleting products. Furthermore, the administrator can generate various types of reports based on specified time intervals, products ordered a certain number of times, loyal customers, and products ordered on a particular day.
+
 ![image](https://user-images.githubusercontent.com/117029446/226129805-e0fea77d-84df-4915-89a6-9937c9c80cb6.png)
